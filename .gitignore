@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+Debug/SimpleXMLParser.ilk
+*.tlog
+*.obj
+SimpleXMLParser/Debug/SimpleXMLParser.lastbuildstate
+*.log
+*.pdb
+SimpleXMLParser/Release/SimpleXMLParser.lastbuildstate
+*.idb
