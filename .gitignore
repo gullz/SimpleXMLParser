@@ -46,11 +46,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.exe
-Debug/SimpleXMLParser.ilk
+*.ilk
 *.tlog
 *.obj
-SimpleXMLParser/Debug/SimpleXMLParser.lastbuildstate
+*.lastbuildstate
 *.log
 *.pdb
-SimpleXMLParser/Release/SimpleXMLParser.lastbuildstate
 *.idb
