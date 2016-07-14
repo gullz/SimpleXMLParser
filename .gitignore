@@ -46,6 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.exe
+*.suo
 *.ilk
 *.tlog
 *.obj
